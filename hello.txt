@@ -1,2 +1,2 @@
-hello, hiw are you
+hello, how are you
 hai this is git class
